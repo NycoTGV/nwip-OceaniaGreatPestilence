@@ -45,6 +45,10 @@ government = {
 		tribes_allow_gatherings
 	}
 
+    reforms = {
+        agricultural_cultivation
+    }
+
 	laws = {
 		marriage_law = polygyny
 		heir_religion_law = heir_same_religion
