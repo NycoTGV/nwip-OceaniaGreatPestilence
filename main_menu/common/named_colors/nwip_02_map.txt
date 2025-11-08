@@ -2,5 +2,19 @@
 colors = {
 	#eu4 map colors
 	map_BRZ = rgb { 1 254 127 }
+    map_guaynia = rgb { 110 78 61}
+    map_higuey = rgb { 210 166 121}
+    map_jaragua = rgb { 180 85 56}
+    map_maguana = rgb { 79 138 43}
+    map_macorix = rgb { 55 86 178}
+    map_boriken = rgb { 167 245 178}
+    map_marien = rgb { 76 106 138}
+    map_taino = rgb { 47 128 118 }
+    map_lucayo = rgb { 60 120 0 }
+    map_ciboney = rgb { 120 60 0 }
+    map_guanahatabey = rgb { 120 111 85 }
+    map_carib = rgb { 0 255 60 }
+    map_igneri = rgb { 60 200 60 }
+    map_ciguayo = rgb { 150 60 60 }
 }
 
