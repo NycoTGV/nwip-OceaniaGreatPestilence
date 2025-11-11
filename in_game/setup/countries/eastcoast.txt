@@ -1633,7 +1633,7 @@ ZBS = {
 	color = map_zabusta
 	color2 = rgb { 173 173 90 }
 
-	culture_definition = apalachee_culture
+	culture_definition = muscogee_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1646,7 +1646,7 @@ ESC = {
 	color = map_escampaba
 	color2 = rgb { 173 173 90 }
 
-	culture_definition = apalachee_culture
+	culture_definition = calusa_culture
 	religion_definition = mississippian_ceremonial
 
 }
