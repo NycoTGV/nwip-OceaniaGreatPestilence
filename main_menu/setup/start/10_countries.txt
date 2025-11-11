@@ -53136,7 +53136,7 @@ countries = {
 		court_language = dhegiha_language
 		capital = kuttawa
 	}
-	#Wazhazhe/Osage/Wickliffe Site/Towosaghy
+	#Wazhazhe/Osage/Wickliffe Site
 	WZZ = {
 		type = pop
 
@@ -53297,7 +53297,7 @@ countries = {
 		type = pop
 
 		add_pops_from_locations = {
-			kiokee kosalu selkehatchie ogeechee saluda generostee enoree
+			kiokee kosalu ogeechee saluda generostee enoree
 		}
 		include = "american_east_coast_tribe"
 		government = {
@@ -59764,7 +59764,7 @@ countries = {
     		own_control_core = {
     			magorix yaqui moca cotui
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -59782,7 +59782,7 @@ countries = {
     		own_control_core = {
     			marien iguamuco
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -59800,7 +59800,7 @@ countries = {
     		own_control_core = {
     			cibao jarabacoa maguana banique
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -59818,7 +59818,7 @@ countries = {
     		own_control_core = {
     			jaragua cahay yaguana
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -59836,7 +59836,7 @@ countries = {
     		own_control_core = {
     			yuma hicayagua cayacoa yamasa
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -59854,7 +59854,7 @@ countries = {
     		own_control_core = {
     			guaynia guama
     		}
-    		include = "nwip_taino_tribe"
+    		include = "nwip_taino_chiefdom"
             government = {
                 ruler = random
             }
@@ -60605,7 +60605,7 @@ countries = {
     #https://en.wikipedia.org/wiki/Casqui
     CSQ = {
         own_control_core = {
-            casqui
+            pacaha
         }
 
         include = "american_east_coast_tribe"
@@ -60614,7 +60614,7 @@ countries = {
             ruler = random
         }
 
-        capital = casqui
+        capital = pacaha
 
         currency_data = {
             gold = 100
@@ -60700,14 +60700,14 @@ countries = {
     PCH = {
 
         own_control_core = {
-            pacaha
+            casqui
         }
         include = "american_east_coast_tribe"
         government = {
             ruler = random
         }
         court_language = chickasaw_choctaw_language
-        capital = pacaha
+        capital = casqui
     }
 
     #Quigaltam Paramount Chiefdom (De Soto) - Vanilla
@@ -61262,13 +61262,13 @@ countries = {
     #Kuswatiyi
     KUA = {
     	own_control_core = {
-    	kutsetsiyi
+    	callamaco
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-        capital = kutsetsiyi
+        capital = callamaco
         currency_data = {
             gold = 100
             stability = 33
@@ -61487,13 +61487,13 @@ countries = {
     #Kusanunnahiyi
     KMY = {
     	own_control_core = {
-    	cassatees
+    	quanasee
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-        capital = casatees
+        capital = quanasee
         currency_data = {
             gold = 100
             stability = 33
@@ -61657,7 +61657,7 @@ countries = {
     #Guale - Vanilla
     GUL = {
         own_control_core = {
-            tybee ossabaw sapelo winbee
+            tybee ossabaw sapelo wimbee
         }
         include = "american_east_coast_tribe"
         government = {
@@ -61676,31 +61676,29 @@ countries = {
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
 
     #Dagu nawalahi
     DAG = {
-
-
     	own_control_core = {
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
 
     #Ditteh
     DTT = {
@@ -61722,57 +61720,51 @@ countries = {
 
     #Gatsonti
     GAT = {
-
-
     	own_control_core = {
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
 
     #Swimpccana
     SWM = {
-
-
     	own_control_core = {
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
 
     #Uwharrie
     UWH = {
-
-
     	own_control_core = {
     	}
     	include = "american_east_coast_tribe"
     	government = {
     		ruler = random
     	}
-    	    capital =
-    	            currency_data = {
-    	                gold = 100
-    	                stability = 33
-    	                tribal_cohesion = 90
-    	            }
-    	}
+        capital =
+        currency_data = {
+            gold = 100
+            stability = 33
+            tribal_cohesion = 90
+        }
+    }
 
     #-------------------------- NWIP Countries - Calusa ----------------------------
     #Escampaba

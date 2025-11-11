@@ -1,0 +1,36 @@
+﻿chiefdom = {
+    icon = iro_council_of_the_fifty
+    major = yes
+    government = tribe
+
+    # Only the lowest-rank countries can adopt it
+    allow = {
+        country_rank_level <= 1
+    }
+
+    # Locked like Patrimonialism, plus: requires high stability & high tribal cohesion to REMOVE.
+    # While any of these are true, this reform is LOCKED (cannot be changed).
+    locked = {
+        OR = {
+            # --- Same conditions as patrimonialism ---
+            capital = {
+                OR = {
+                    num_pop_type:nobles < { value = population divide = 100 multiply = 1 }
+                    num_pop_type:clergy < { value = population divide = 100 multiply = 2 }
+                    num_pop_type:burghers < { value = population divide = 100 multiply = 5 }
+                }
+            }
+            # --- Additional removal gates (need BOTH to be high to unlock) ---
+            #stability < 60             # set your threshold for "high stability"
+            #tribal_cohesion < 80       # matches patterns used in other tribal locks
+        }
+    }
+
+    country_modifier = {
+        may_not_take_land_in_peace_treaties = yes   # blocks taking land in peace deals
+        improve_relation_impact = 0.15              # better “Improve Relations”
+        #monthly_towards_conciliatory = societal_value_monthly_move
+    }
+
+    years = 2
+}

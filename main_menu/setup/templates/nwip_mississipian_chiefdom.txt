@@ -46,7 +46,7 @@ government = {
 	}
 
     reforms = {
-        agricultural_cultivation
+        chiefdom
     }
 
 	laws = {

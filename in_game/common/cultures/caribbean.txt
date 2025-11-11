@@ -17,7 +17,7 @@ macorix_culture = {#https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Cari
 	
 	color = map_macorix
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -31,7 +31,7 @@ lucayo = { #https://en.wikipedia.org/wiki/Lucayan_people
 	
 	color = map_lucayo
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -45,7 +45,7 @@ ciboney = { #https://en.wikipedia.org/wiki/Ciboney
 	
 	color = map_ciboney
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -59,7 +59,7 @@ guanahatabey = { #https://en.wikipedia.org/wiki/Guanahatabey
 	
 	color = map_guanahatabey
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -73,7 +73,7 @@ carib = { #https://en.wikipedia.org/wiki/Kalinago
 	
 	color = map_carib
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -87,7 +87,7 @@ igneri = { #https://en.wikipedia.org/wiki/Igneri
 	
 	color = map_igneri
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
@@ -101,7 +101,7 @@ ciguayo_culture = { #https://en.wikipedia.org/wiki/Ciguayos
 	
 	color = map_ciguayo
 	
-	tags = { native_american_tag south_american_gfx american_gfx caribbean_coa_gfx }
+	tags = { native_american_tag north_american_gfx american_gfx caribbean_coa_gfx }
 
 	opinions = {
 	}	
