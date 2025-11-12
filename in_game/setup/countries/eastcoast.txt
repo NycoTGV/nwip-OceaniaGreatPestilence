@@ -1102,9 +1102,9 @@ AMO = {
 
 }
 
-#Apalachicola - APB
+#Bacuqua - APB
 APB = {
-	color = map_apalachicola
+	color = map_bacuqua
 	color2 = rgb { 147 124 102 }
 
 	culture_definition = hitchiti_culture
@@ -1465,7 +1465,7 @@ SHT = {
 
 #Sacchuma - SCC
 SCC = {
-	color = map_succehumma
+	color = map_sacchuma
 	color2 = rgb { 78 162 173 }
 
 	culture_definition = chickasaw_culture

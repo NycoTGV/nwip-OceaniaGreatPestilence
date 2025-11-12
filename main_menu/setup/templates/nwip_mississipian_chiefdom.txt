@@ -1,6 +1,18 @@
-﻿discovered_regions = {
-	caribbean_region
-}
+﻿		discovered_areas = {
+			illinois_area
+			indiana_area
+			kentucky_area
+			tennessee_area
+			alabama_area
+			mississippi_area
+			louisiana_area
+			missouri_area
+			arkansas_area
+			georgia_area
+			south_carolina_area
+			florida_area
+			gulf_of_mexico_area
+		}
 starting_technology_level = 0
 government = {
 	type = tribe
