@@ -9,6 +9,7 @@
 		country_has_disease = disease:great_pestilence
 		stability < 50
 		has_any_active_disaster = no
+		government = tribe          # ← must be a Tribe government
 		custom_tooltip = {
 			text = rcs_has_not_happened_tt
 			NOT = { has_variable = concluded_rapid_collapse_of_society_variable }
