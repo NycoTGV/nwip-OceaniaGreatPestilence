@@ -87,7 +87,7 @@ pacify_population_advance = {
 	
 	unlock_cabinet_action = pacify_population
 }
-
+#NWIP Edited vanilla Action
 settle_the_frontier_advance = {
 	icon = expansionism
 	age = age_1_traditions
