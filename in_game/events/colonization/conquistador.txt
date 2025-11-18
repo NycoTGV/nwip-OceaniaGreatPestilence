@@ -331,9 +331,11 @@ conquistador.11 = {
 	image = "gfx/interface/illustrations/institutions/new_world.dds"
 	
 	trigger = {
-		OR = {
-			has_reform = government_reform:conquistador_country
-			country_type = army
+		scope:conquistador_country = {
+			OR = {
+				has_reform = government_reform:conquistador_country
+				country_type = army
+			}
 		}
 	}
 	
